@@ -1,0 +1,1 @@
+# pedejais_kursadarbs2023
