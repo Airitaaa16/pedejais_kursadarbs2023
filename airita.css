@@ -1,18 +1,18 @@
-H1.v1 { 
+H1 { 
     font-size: x-large; 
-    color: blue 
+    color: rgb(17, 49, 75) 
     }
-H1.v2 { 
-    font-size: x-large; 
-    color: green 
-    }
-H1.v3 { 
-    font-size: x-large; 
-    color: pink 
-    }
-
 H2 { 
     font-size: large; 
-    color: salmon 
+    
+    }
+H3 { 
+    font-size: x-large; 
+    
+    }
+
+p { 
+    font-size: large; 
+    color: rgb(0, 0, 0) 
 }
 
