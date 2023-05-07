@@ -1,3 +1,4 @@
+
 function poga (){
     var g, p, izvade;
     g = Number(garums.value);
