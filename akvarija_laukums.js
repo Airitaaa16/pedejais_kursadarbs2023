@@ -12,3 +12,4 @@ function poga (){
     }
     rezultāts.innerHTML = izvade;
 }
+

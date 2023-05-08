@@ -2,17 +2,10 @@ H1 {
     font-size: x-large; 
     color: rgb(17, 49, 75) 
     }
-H2 { 
-    font-size: large; 
-    
-    }
-H3 { 
-    font-size: x-large; 
-    
-    }
 
 p { 
     font-size: large; 
     color: rgb(0, 0, 0) 
+    style: font-family:courier;
 }
 
