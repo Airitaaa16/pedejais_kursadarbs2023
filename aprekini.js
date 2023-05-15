@@ -18,11 +18,12 @@ function tilpums (){
     var g, p, izvade;
     g = Number(garums.value);
     p = Number(platums.value);
-    if(isNaN(g) || isNaN(p)) {
+    a = Number(augstums.value);
+    if(isNaN(g) || isNaN(p) || isNaN (a)) {
         izvade = "Kļūda datu ievadē.";
     }
     else {
-        izvade = "Akvārija laukums ir" + g * p + ".";
+        izvade = "Akvārija tilpums ir" + g * p * a + ".";
 
     }
     rezultāts.innerHTML = izvade;
