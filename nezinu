@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The select Element</h2>
+
+<p>The select element defines a drop-down list:</p>
+
+<form action="/action_page.php">
+  <label for="zivs">Izvēlies zivtiņas dzimumu:</label>
+  <select id="zivs" name="zivs">
+    <option value="Puisis">Puisis</option>
+    <option value="Meitene">Meitene</option>
+  </select>
+  <input type="submit">
+</form>
+
+
+
+<form action="/action_page.php">
+  <label for="zivs">Izvēlies zivtiņas vārdu:</label>
+  <select id="zivs" name="zivs">
+    <option value="Emo">Emo</option>
+    <option value="Rozīte">Rozīte</option>
+    <option value="Nemo">Nemo</option>
+    <option value="Aurora">Aurora</option>
+    <option value="Nele">Nele</option>
+  </select>
+  <input type="submit">
+</form>
+
+</body>
+</html>
