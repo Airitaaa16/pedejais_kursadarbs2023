@@ -5,7 +5,12 @@ H1 {
 
 p { 
     font-size: large; 
-    color: rgb(0, 0, 0) 
-    style: font-family:courier;
+    color: rgb(0, 0, 0);
+    font-family:Arial;
 }
 
+table {
+    border: 2px solid;
+    width: 70%;
+    border-collapse: none;
+}
