@@ -1,1 +1,2 @@
 # pedejais_kursadarbs2023
+Ar šo projektu jeb mājaslapu vēlējos parādīt citiem cilvēkiem, cik vienkarša ir zivtiņas uzturešana.Tākā arī pašai nesen ir pienācis jauns mājdzivnieks arī papildināju savas zināšanas un prasmes. Izveidoju 3galvenās lapas par to kas vispār ir zivtiņa, ko viņa ēd un kāda ir viņas aprūpe. Ir arī tabula, kur ir mazliet apkopots cik zivtiņ ir ģimenē ar dazādu bērnu skaitu. Aprēķināju akvārija tilpumu un laukumu uzrakstiju tādu programmu. Un izveidoju arī tādu kā spēli, kur uzklikšķinot uz attēla logā augšā paradās tā ir akvārija zivtiņa vai nav.
