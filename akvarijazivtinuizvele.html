@@ -1,0 +1,24 @@
+html
+<!DOCTYPE html>
+<html lang="lv"> </html>
+  <head>
+    <title>Izvēlies fotogrāfijas</title>
+  </head>
+  <body>
+    <h1>Izvēlies akvārija zivtiņas:</h1>
+    <img src="asaris.jpg" onclick="choosePhoto('nav akvarijazivtina.jpg')">
+    <img src="cīnītājzivs.jpg" onclick="choosePhoto('akvarijacīnītājzivs.jpg')">
+    <img src="forele.jpg" onclick="choosePhoto('nav akvarija zivtina')">
+    <img src="akvarijapuke.jpg" onclick="choosePhoto('akvarijapuke.jpg')">
+    <img src="forele.jpg" onclick="choosePhoto('nav akvarija zivtina')">
+    <img src="rudulis.jpg" onclick="choosePhoto('nav akvarijazivtina.jpg')">
+    <img src="pusmenes.jpg" onclick="choosePhoto('akvarijazivtina pusmeness.jpg')">
+    <img src="sams.jpg" onclick="choosePhoto('nav akvarijazivtina.jpg')">
+    <img src="zeltazivtina.jpg" onclick="choosePhoto('akvarijazeltazivtina.jpg')">
+    <script>
+      function choosePhoto(photo) {
+        alert('You chose ' + photo);
+      }
+    </script>
+  </body>
+</html>
